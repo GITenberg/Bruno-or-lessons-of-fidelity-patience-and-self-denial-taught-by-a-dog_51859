@@ -1,0 +1,33 @@
+_repo: Bruno-or-lessons-of-fidelity-patience-and-self-denial-taught-by-a-dog_51859
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2016-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Patience -- Juvenile fiction'
+- !lcsh 'Loyalty -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Self-denial -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bruno; or, lessons of fidelity, patience, and self-denial taught by a dog
+url: http://www.gutenberg.org/ebooks/51859
