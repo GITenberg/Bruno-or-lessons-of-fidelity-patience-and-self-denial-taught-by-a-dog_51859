@@ -1,5 +1,8 @@
 _repo: Bruno-or-lessons-of-fidelity-patience-and-self-denial-taught-by-a-dog_51859
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51859-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Abbott, Jacob
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2136
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51859#Bruno-or-lessons-of-fidelity-patience-and-self-denial-taught-by-a-dog
 gutenberg_issued: '2016-04-25'
 gutenberg_type: Text
 identifiers:
